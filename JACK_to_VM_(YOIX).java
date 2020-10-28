@@ -1,4 +1,3 @@
-//מוריה פדאל 316206002 ומעיין סיזל 315443499
 import yoix.string.*;
 import yoix.stdio.*;
 import yoix.system.*;
